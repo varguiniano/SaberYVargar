@@ -99,4 +99,5 @@ Una vez hayas terminado de preparar todas tus preguntas y las hayas puesto en el
 - Las flechas izquierda y derecha (o los botones en la parte superior de la pantalla) cambian entre pantallas.
 - Las flechas arriba y abajo saltarán entre el contenido de cada pantalla. En pantallas sencillas de una pregunta solo mostrarán el texto. En preguntas de test irán mostrando las opciones de una en una. En preguntas de ráfada mostrarán primero las respuestas y luego irán sacando preguntas de una en una.
 - La tecla a muestra la respuesta a una pregunta si la hubiese.
+- Con el ratón puedes pulsar en todas las cosas que parecen botones.
 - Para cerrar la app alt+f4 porque soy un vago.
