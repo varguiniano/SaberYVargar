@@ -2,7 +2,7 @@
 
 > El hacedor de trivials para toda la familia.
 
-[Descarga](https://github.com/varguiniano/SaberYVargar/releases/download/0.0.1/SaberYVargar.7z)
+[Descarga](https://github.com/varguiniano/SaberYVargar/releases/download/latest/SaberYVargar.7z)
 
 ## Cómo hacer tu joeguito
 
