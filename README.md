@@ -134,7 +134,7 @@ Datos a rellenar.
 - Title: El título superior de la pantalla.
 - Text: La frase que ha de adivinarse.
 
-Una vez hayas terminado de preparar todas tus preguntas y las hayas puesto en el listado del ScreenLayout.json, puedes ejecutar SaberYVargar.exe para empezar tu joeguito.
+Una vez hayas terminado de preparar todas tus preguntas y las hayas puesto en el listado del ScreenLayout.json, puedes ejecutar SaberYVargar.exe para empezar tu joeguito. Si se queda atascado en la pantalla de carga mándame un mensajito.
 
 ## Controles
 - Las flechas izquierda y derecha (o los botones en la parte superior de la pantalla) cambian entre pantallas.
